@@ -1,0 +1,31 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+
+body {
+  background-image: url("http://orig07.deviantart.net/5ddb/f/2013/035/1/6/think_rails___flat_by_cyric80-d5tu85r.jpg");
+  background-size: cover;
+  background-fixed;
+  text-align;
+}
+
+a {
+  color: white;
+}
+
+h1 {
+  color: white;
+}
+
+ul {
+  color: white;
+}
+
+th, td {
+  color: white;
+}
+
+thead > th {
+  color: white;
+}
